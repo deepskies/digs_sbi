@@ -2,3 +2,4 @@ Repository for the project DIGS: Deep Inference of Galaxy Spectra with Neural Po
 
 Authors: Gourav Khullar, Brian Nord, Aleksandra Ciprijanovic, Jason Poh, Fei Xu
 
+![Network Architecture](architecture.png)
